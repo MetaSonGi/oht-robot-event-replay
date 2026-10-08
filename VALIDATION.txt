@@ -1,0 +1,9 @@
+Validation date: 2026-10-08 (Asia/Seoul)
+test_duplicate_and_shuffle (test_main.ReplayTests.test_duplicate_and_shuffle) ... ok
+test_html_escape (test_main.ReplayTests.test_html_escape) ... ok
+test_time_cutoff (test_main.ReplayTests.test_time_cutoff) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.000s
+
+OK

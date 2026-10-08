@@ -1,0 +1,46 @@
+{
+  "state": {
+    "oht-01": {
+      "version": 2,
+      "timestamp": "2026-10-08T06:00:02Z",
+      "position": [
+        3,
+        0,
+        2
+      ],
+      "status": "moving"
+    },
+    "robot-01": {
+      "version": 1,
+      "timestamp": "2026-10-08T06:00:01Z",
+      "position": [
+        1,
+        4,
+        0
+      ],
+      "status": "working"
+    }
+  },
+  "log": [
+    {
+      "asset": "oht-01",
+      "status": "applied",
+      "version": 1
+    },
+    {
+      "asset": "robot-01",
+      "status": "applied",
+      "version": 1
+    },
+    {
+      "asset": "oht-01",
+      "status": "applied",
+      "version": 2
+    },
+    {
+      "asset": "oht-01",
+      "status": "duplicate_or_stale",
+      "version": 2
+    }
+  ]
+}

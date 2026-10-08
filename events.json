@@ -1,0 +1,46 @@
+[
+  {
+    "asset_id": "oht-01",
+    "timestamp": "2026-10-08T06:00:00Z",
+    "version": 1,
+    "position": [
+      0,
+      0,
+      2
+    ],
+    "status": "idle"
+  },
+  {
+    "asset_id": "oht-01",
+    "timestamp": "2026-10-08T06:00:02Z",
+    "version": 2,
+    "position": [
+      3,
+      0,
+      2
+    ],
+    "status": "moving"
+  },
+  {
+    "asset_id": "oht-01",
+    "timestamp": "2026-10-08T06:00:03Z",
+    "version": 2,
+    "position": [
+      99,
+      99,
+      99
+    ],
+    "status": "duplicate"
+  },
+  {
+    "asset_id": "robot-01",
+    "timestamp": "2026-10-08T06:00:01Z",
+    "version": 1,
+    "position": [
+      1,
+      4,
+      0
+    ],
+    "status": "working"
+  }
+]
